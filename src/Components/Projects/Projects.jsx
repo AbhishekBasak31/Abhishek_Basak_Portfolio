@@ -18,7 +18,7 @@ function Projects() {
                     className="w-4 h-4 rounded-full border-[3px] border-lightYellow absolute left-1/2 -translate-x-1/2 bg-[#111] z-10 hover:scale-110 ease-in-out duration-100 hidden sm:block"
                 ></div>
                 <a
-                    href="https://shop-sphere-frontend-wine.vercel.app/"
+                    href="https://github.com/AbhishekBasak31/ShopSphere"
                     className="flex w-full relative justify-center sm:justify-start"
                     target='blank'
                 >
